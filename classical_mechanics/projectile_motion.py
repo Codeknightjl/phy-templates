@@ -7,6 +7,8 @@ from matplotlib import pyplot as plt
 
 class ProjectileMotion:
     """
+    Source: https://codereview.stackexchange.com/questions/273223/python-class-to-calculate-different-variables-of-a-projectile-motion-with-angle
+    
     This class calculates the movement of a projectile using its initial velocity
     and the angle at which it is thrown/shot. The initial height of the projectile
     is 0 by default but can be set by the user when creating an instance.
